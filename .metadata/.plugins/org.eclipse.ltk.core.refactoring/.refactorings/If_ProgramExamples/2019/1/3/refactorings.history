@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;Grades.main().console&apos; in &apos;Grades.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;If_ProgramExamples&apos;&#x0D;&#x0A;- Original element: &apos;Grades.main().console&apos;&#x0D;&#x0A;- Field name: &apos;console&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;console&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{Grades.java" name="console" selection="128 32" stamp="1547906558882" static="true" version="1.0" visibility="2"/>
+</session>
